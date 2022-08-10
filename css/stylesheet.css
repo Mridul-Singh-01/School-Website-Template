@@ -1,0 +1,91 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0ch;
+}
+.header{
+    background-color: rgb(126, 196, 196);
+    color: rgb(177, 36, 36);
+    width: 100%;
+    height: 200px;
+}
+.table1{
+    background-color: rgb(5, 81, 81);
+    color: white;
+    width: 80%;
+    height: 50px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.a1{
+    color: white;
+}
+tr,td,th{
+    text-align: center;
+}
+.content{
+    width: 450px;
+    height: 300px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.img{
+    width: 630px;
+    height: 300px;
+}
+.table2{
+    width: 80%;
+    height: 80px;
+    margin-left: 110px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.anchor_text{
+    margin-left: 800px;
+    font-size: larger;
+    text-align: right;
+}
+ul,li{
+    text-align: left;
+    padding-bottom: 4px;
+    color: black;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(126, 196, 196);
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-bottom: 3px;
+}
+h3{
+    text-align: left;
+}
+.logo{
+    width: 300px;
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.contact{
+    background-image: url('image/contactusbg.jpg');
+    
+}
+.contact_text{
+    font-size: 24px;
+    padding: 3px;
+}
+.img_table{
+    width: 80%;
+    height: 80px;
+    margin-left: 110px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 2px;
+    border: solid 3px ;
+}
